@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/liminova.github.io.ico",
     "slug": "organization-website",
     "status": "up",
-    "uptime": "96.78%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "96.78%",
-    "uptimeMonth": "96.78%",
-    "uptimeYear": "96.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 138,
     "timeDay": 138,
     "timeWeek": 138,
     "timeMonth": 138,
     "timeYear": 138,
-    "dailyMinutesDown": {
-      "2024-08-14": 10
-    }
+    "dailyMinutesDown": {}
   }
 ]
