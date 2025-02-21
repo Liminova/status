@@ -4,18 +4,19 @@
     "url": "https://liminova.net",
     "icon": "https://icons.duckduckgo.com/ip3/liminova.net.ico",
     "slug": "organization-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 105,
-    "timeDay": 195,
-    "timeWeek": 106,
-    "timeMonth": 94,
+    "timeDay": 158,
+    "timeWeek": 103,
+    "timeMonth": 93,
     "timeYear": 105,
     "dailyMinutesDown": {
+      "2025-02-21": 0,
       "2024-08-27": 20,
       "2024-08-15": 63
     }
