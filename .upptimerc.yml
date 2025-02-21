@@ -3,7 +3,7 @@ repo: status
 
 sites:
   - name: organization website
-    url: https://liminova.github.io
+    url: https://liminova.net
 
 status-website:
   baseUrl: /status
