@@ -6,7 +6,7 @@ sites:
     url: https://liminova.net
 
 status-website:
-  baseUrl: /
+  baseUrl: https://status.liminova.net/
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: uptime status
   introTitle: "Status page for various things under the Liminova organization."
