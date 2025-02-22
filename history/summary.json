@@ -11,13 +11,51 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 106,
-    "timeDay": 146,
-    "timeWeek": 114,
-    "timeMonth": 98,
+    "timeDay": 169,
+    "timeWeek": 121,
+    "timeMonth": 100,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-08-27": 20,
       "2024-08-15": 63
     }
+  },
+  {
+    "name": "charlotte synapse",
+    "url": "$CHARLOTTE_SYNAPSE",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "charlotte-synapse",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 709,
+    "timeDay": 709,
+    "timeWeek": 709,
+    "timeMonth": 709,
+    "timeYear": 709,
+    "dailyMinutesDown": {
+      "2025-02-21": 3
+    }
+  },
+  {
+    "name": "charlotte api",
+    "url": "$CHARLOTTE_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "charlotte-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 771,
+    "timeDay": 771,
+    "timeWeek": 771,
+    "timeMonth": 771,
+    "timeYear": 771,
+    "dailyMinutesDown": {}
   }
 ]
