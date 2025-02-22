@@ -7,7 +7,7 @@ sites:
   - name: charlotte synapse
     url: $CHARLOTTE_SYNAPSE
   - name: charlotte api
-    urL: $CHARLOTTE_API
+    urL: https://$CHARLOTTE_API
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
