@@ -26,19 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "charlotte-synapse",
     "status": "up",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 709,
     "timeDay": 709,
     "timeWeek": 709,
     "timeMonth": 709,
     "timeYear": 709,
-    "dailyMinutesDown": {
-      "2025-02-21": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "charlotte api",
