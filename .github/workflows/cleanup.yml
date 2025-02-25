@@ -2,7 +2,7 @@ name: Cleanup workflow
 
 on:
   schedule:
-    - cron: '0 9 * * *'
+    - cron: '0 0 */3 * *'
   workflow_dispatch:
     inputs: {}
 
