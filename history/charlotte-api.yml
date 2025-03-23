@@ -1,7 +1,7 @@
 url: $CHARLOTTE_API
-status: down
-code: 502
-responseTime: 874
-lastUpdated: 2025-03-23T20:53:58.653Z
+status: up
+code: 200
+responseTime: 842
+lastUpdated: 2025-03-23T21:02:57.430Z
 startTime: 2025-02-22T14:22:57.911Z
 generator: Upptime <https://github.com/upptime/upptime>
