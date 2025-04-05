@@ -1,7 +1,7 @@
 url: $CHARLOTTE_SYNAPSE
-status: up
-code: 200
-responseTime: 814
-lastUpdated: 2025-04-04T23:13:20.899Z
+status: down
+code: 530
+responseTime: 140
+lastUpdated: 2025-04-05T09:49:27.506Z
 startTime: 2025-02-22T14:22:56.919Z
 generator: Upptime <https://github.com/upptime/upptime>
