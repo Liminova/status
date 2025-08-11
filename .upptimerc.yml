@@ -4,10 +4,6 @@ repo: status
 sites:
   - name: organization website
     url: https://liminova.net
-  - name: charlotte synapse
-    url: $CHARLOTTE_SYNAPSE
-  - name: charlotte api
-    url: $CHARLOTTE_API
 
 status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
